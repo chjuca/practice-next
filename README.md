@@ -24,4 +24,4 @@ The aim of this application is to provide a modern, fast, and responsive interfa
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Reqres API](https://reqres.in/)
+- [Reqres API](https://reqres.in/)# practice-next
